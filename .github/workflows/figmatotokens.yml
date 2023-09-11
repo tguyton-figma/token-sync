@@ -1,6 +1,4 @@
 name: Sync Figma variables to tokens
-on:
-  workflow_dispatch:
 
 jobs:
   sync-figma-to-tokens:
