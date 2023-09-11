@@ -90,7 +90,7 @@
     },
     "spacing-2xl": {
       "$type": "number",
-      "$value": "{spacing.13}",
+      "$value": "{spacing.12}",
       "$description": "",
       "$extensions": {
         "com.figma": {
@@ -190,7 +190,7 @@
     },
     "surface-brand": {
       "$type": "color",
-      "$value": "{color.brand.watermelon}",
+      "$value": "{color.brand.pear}",
       "$description": "",
       "$extensions": {
         "com.figma": {
