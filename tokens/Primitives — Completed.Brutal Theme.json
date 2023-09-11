@@ -2,7 +2,7 @@
   "spacing": {
     "1": {
       "$type": "number",
-      "$value": 8,
+      "$value": 10,
       "$description": "",
       "$extensions": {
         "com.figma": {
@@ -16,7 +16,7 @@
     },
     "2": {
       "$type": "number",
-      "$value": 16,
+      "$value": 20,
       "$description": "",
       "$extensions": {
         "com.figma": {
@@ -30,7 +30,7 @@
     },
     "3": {
       "$type": "number",
-      "$value": 24,
+      "$value": 30,
       "$description": "",
       "$extensions": {
         "com.figma": {
@@ -44,7 +44,7 @@
     },
     "4": {
       "$type": "number",
-      "$value": 32,
+      "$value": 40,
       "$description": "",
       "$extensions": {
         "com.figma": {
@@ -58,7 +58,7 @@
     },
     "5": {
       "$type": "number",
-      "$value": 40,
+      "$value": 50,
       "$description": "",
       "$extensions": {
         "com.figma": {
@@ -72,7 +72,7 @@
     },
     "6": {
       "$type": "number",
-      "$value": 48,
+      "$value": 60,
       "$description": "",
       "$extensions": {
         "com.figma": {
@@ -86,7 +86,7 @@
     },
     "7": {
       "$type": "number",
-      "$value": 56,
+      "$value": 70,
       "$description": "",
       "$extensions": {
         "com.figma": {
@@ -100,7 +100,7 @@
     },
     "8": {
       "$type": "number",
-      "$value": 64,
+      "$value": 80,
       "$description": "",
       "$extensions": {
         "com.figma": {
@@ -114,7 +114,7 @@
     },
     "9": {
       "$type": "number",
-      "$value": 72,
+      "$value": 90,
       "$description": "",
       "$extensions": {
         "com.figma": {
@@ -128,7 +128,7 @@
     },
     "10": {
       "$type": "number",
-      "$value": 80,
+      "$value": 100,
       "$description": "",
       "$extensions": {
         "com.figma": {
@@ -142,7 +142,7 @@
     },
     "11": {
       "$type": "number",
-      "$value": 88,
+      "$value": 110,
       "$description": "",
       "$extensions": {
         "com.figma": {
@@ -156,7 +156,7 @@
     },
     "12": {
       "$type": "number",
-      "$value": 96,
+      "$value": 120,
       "$description": "",
       "$extensions": {
         "com.figma": {
@@ -170,7 +170,7 @@
     },
     "13": {
       "$type": "number",
-      "$value": 104,
+      "$value": 130,
       "$description": "",
       "$extensions": {
         "com.figma": {
@@ -184,7 +184,7 @@
     },
     "half": {
       "$type": "number",
-      "$value": 4,
+      "$value": 5,
       "$description": "",
       "$extensions": {
         "com.figma": {
