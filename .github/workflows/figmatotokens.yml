@@ -1,10 +1,6 @@
 name: Sync Figma variables to tokens
 on:
   workflow_dispatch:
-    inputs:
-      file_key:
-        description: 'The file key of the Figma file to be updated'
-        required: true
 
 jobs:
   sync-figma-to-tokens:
@@ -31,7 +27,7 @@ jobs:
       - name: Sync variables in Figma file to tokens
         run: npm run sync-figma-to-tokens -- --output tokens
         env:
-          FILE_KEY: ${{ variables.GH_ACTION_FILE_ID }}
+          FILE_KEY: ${{ secrets.GH_ACTION_FILE_ID }}
           PERSONAL_ACCESS_TOKEN: ${{ secrets.GH_ACTION_VARIABLES_SYNC_FIGMA_TOKEN }}
 
       - name: Create Pull Request
