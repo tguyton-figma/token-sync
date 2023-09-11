@@ -1,6 +1,6 @@
-name: Sync Figma variables to tokens
-workflow_dispatch:
-    description: 'Running workflow manually...'
+name: Sync figma to tokens
+on:
+  workflow_dispatch:
 
 jobs:
   sync-figma-to-tokens:
