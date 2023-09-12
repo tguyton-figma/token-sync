@@ -3,7 +3,7 @@
     "brand": {
       "pear": {
         "$type": "color",
-        "$value": "#ffbe16",
+        "$value": "#DEF358",
         "$description": "",
         "$extensions": {
           "com.figma": {
