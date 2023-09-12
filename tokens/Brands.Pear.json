@@ -1,9 +1,9 @@
 {
   "color": {
     "brand": {
-      "radish": {
+      "pear": {
         "$type": "color",
-        "$value": "#0f0f0f",
+        "$value": "#ffffff",
         "$description": "",
         "$extensions": {
           "com.figma": {
@@ -15,9 +15,9 @@
           }
         }
       },
-      "pear": {
+      "radish": {
         "$type": "color",
-        "$value": "#ffbe16",
+        "$value": "#0f0f0f",
         "$description": "",
         "$extensions": {
           "com.figma": {
